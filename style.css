@@ -1,0 +1,55 @@
+body {
+    background-color: #F39C12;
+    color: black;
+}
+
+h1 {
+    font-size: 30px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    text-align: center;
+}
+
+h3 {
+    font-size: 20px;
+    margin-top: 10px;
+    text-align: center;
+}
+
+p {
+    font-size: 14px;
+    text-align: justify;
+}
+
+table {
+    font-size: 12px;
+    text-align: center;
+}
+
+tbody tr:nth-child(even) {
+    background-color: #ECF0F1
+}
+
+tbody tr:nth-child(odd) {
+    background-color: #F8F9F9
+}
+
+.container {
+    width: 95%;
+    margin: auto;
+}
+
+.navbar-brand {
+    font-size: 30px;
+    font-weight: bold;
+    padding: 10px;
+}
+
+.thumbnail {
+    width:50%;
+}
+
+.responsive {
+    width: 100%;
+    height: auto;
+}
