@@ -1,6 +1,7 @@
 body {
-    background-color: #F39C12;
+    background-color: #F49F1C;
     color: black;
+    margin-bottom: 25px;
 }
 
 h1 {
@@ -37,6 +38,10 @@ tbody tr:nth-child(odd) {
 .container {
     width: 95%;
     margin: auto;
+}
+
+.navbar-custom {
+    background-color: #00154f;
 }
 
 .navbar-brand {
