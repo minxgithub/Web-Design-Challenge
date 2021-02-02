@@ -41,7 +41,7 @@ tbody tr:nth-child(odd) {
 }
 
 .navbar-custom {
-    background-color: navy;
+    background-color: navy !important;
 }
 
 .navbar-brand {
